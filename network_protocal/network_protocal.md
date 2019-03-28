@@ -8,7 +8,7 @@
 
 ### IP地址范围
 
-![scope of ip](.\image\scope_of_ip.jpg)
+![scope of ip](./image/scope_of_ip.jpg)
 
 ## 2.无类型域间选路（CIDR)
 
